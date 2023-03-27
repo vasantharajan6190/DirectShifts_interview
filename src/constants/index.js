@@ -1,7 +1,7 @@
 import { Octokit } from "octokit";
 
 
-export const octokit = new Octokit({ auth: `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` });
+export const octokit = new Octokit({ auth: `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` });
 
 export const fetchData = async(method,setterMethod,params) => {
     await octokit.request(`GET ${params.url}`, {
