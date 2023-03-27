@@ -1,0 +1,15 @@
+{
+  "short_name": "Github demo",
+  "name": "Github demo sample for interview",
+  "icons": [
+    {
+      "src": "github-mark.png",
+      "type": "image/png",
+      "sizes": "240x240"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
